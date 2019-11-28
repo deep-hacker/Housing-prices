@@ -1,0 +1,1 @@
+In this repo, you can find the data used (test.csv, train.csv) source:kaggle and the jupyter notebook (Housing Price Prediction.ipynb) with all my code and generated csv file for the predicted salesprice.
